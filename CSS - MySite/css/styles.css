@@ -1,0 +1,142 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Cabin', sans-serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Pacifico', cursive;
+  color: #ffe2e2;
+}
+
+h2 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 2.5rem;
+  color: #ffe2e2;
+}
+
+h3 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 2.0rem;
+  font-weight: lighter;
+  color: #99DDCC;
+  margin: 0;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: grey;
+  width: 3%;
+}
+
+.programmer {
+  font-weight: lighter;
+}
+
+.top-container {
+  background-color: #bad7df;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: #bad7df;
+  padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 450px;
+}
+
+.profile-img {
+  border-radius: 50%;
+  margin: 20px;
+}
+
+.web-design-img {
+  max-width: 12%;
+  float: left;
+  margin-right: 30px;
+}
+
+.web-design{
+  width: 70%;
+  margin: auto;
+}
+
+.creative-heading {
+  margin: 0 0 0 0;
+  position: relative;
+  left: 132px;
+}
+
+.creative {
+  width: 70%;
+  margin: auto;
+}
+.camera-img {
+  max-width: 12%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.btn {
+	background-color:#bad7df;
+	border-radius:28px;
+	border:1px solid #bad7df;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #ffffff;
+  margin: auto auto 25px auto;
+}
+.btn:hover {
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.footer-link {
+  color: #f6f6f6;
+  font-family: 'Cabin', sans-serif;
+  margin: 20px 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffe2e2;
+}
+
+.above-contact {
+  margin: 25px auto 50px auto;
+}
+
+.copyright {
+  font-size: 10px
+}
